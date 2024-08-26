@@ -18,12 +18,12 @@
     <tr>
       <td>
         <a href="https://github.com/silvek/silvek">
-          <img width="500" align="left" src="https://github-readme-stats.vercel.app/api/?username=silvek&count_private=true&show_icons=true&include_all_commits=true&title_color=fff&icon_color=f7d748&text_color=9f9f9f&bg_color=151515" />
+          <img width="500" align="left" src="https://github-readme-stats.vercel.app/api/?username=silvergama&count_private=true&show_icons=true&include_all_commits=true&title_color=fff&icon_color=f7d748&text_color=9f9f9f&bg_color=151515" />
           </a>
       </td>
         <td>
           <a href="https://github.com/silvek/silvek">
-<img width="490" src="https://github-readme-stats.vercel.app/api/wakatime?username=silvek&layout=compact&title_color=fff&icon_color=f7d748&text_color=9f9f9f&bg_color=151515" />
+<img width="490" src="https://github-readme-stats.vercel.app/api/wakatime?username=silvergama&layout=compact&title_color=fff&icon_color=f7d748&text_color=9f9f9f&bg_color=151515" />
             </a>
     </tr>   
 </table>
